@@ -323,6 +323,11 @@ footer p {
     background: rgba(255,255,255,.2);
 }
 
+img {
+	border: 20px solid #9F7C94;
+	margin-bottom: 30px;
+}
+
 img::selection {
     background: 0 0;
 }
