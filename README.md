@@ -1,3 +1,12 @@
+# Rachel and Jacob
+A site I updated when I first started playing around with websites and web applications.
+
+This repository is a fork of Start Bootstrap's [Grayscale](https://github.com/IronSummitMedia/startbootstrap-grayscale) theme. Please visit their repository for more details. Original README below.
+
+
+----------
+
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
 
 [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
